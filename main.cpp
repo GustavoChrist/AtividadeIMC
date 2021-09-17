@@ -1,3 +1,5 @@
+/* Inserindo um comentário para gerar a segunda versão no Github*/
+
 #include <iostream>
 #include <iomanip> /*pra usar a expressão cout << fixed <<setprecision() */
 using namespace std;
